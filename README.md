@@ -23,5 +23,6 @@ Writing markdown is **super** *easy*!
 
 Accomplishment plan for my studies can be found [here](https://opetussuunnitelmat.oamk.fi/68096/fi/68089/68157/1200?lang=en)
 
-### Here is a picture from [this](https://thispersondoesnotexist.com/) website! The person in the picture *should* change everytime you update this site!
+### Here is a picture from [this](https://thispersondoesnotexist.com/) website! The person in the picture *should* change everytime you refresh this website!
 ![this_person_doesnt_exist](https://thispersondoesnotexist.com/ "this person doesn't exist")
+
