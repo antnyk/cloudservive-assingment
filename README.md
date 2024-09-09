@@ -14,5 +14,7 @@ Writing markdown is **super** *easy*!
 > - Write the Github page address to the learning diary so that your peer reviewers can verify it easily
 > - Keep the pages available until you have received your course grade
 
+Accomplishment plan for my studies can be found [here](https://opetussuunnitelmat.oamk.fi/68096/fi/68089/68157/1200?lang=en)
 
-
+### Here is a picture from [this](https://thispersondoesnotexist.com/) website! The person in the picture *should* change everytime you update this site!
+![this_person_doesnt_exist](https://thispersondoesnotexist.com/ "this person doesn't exist")
